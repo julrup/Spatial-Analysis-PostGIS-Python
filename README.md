@@ -4,8 +4,6 @@ Python scripts and PostGIS SQL queries for automated spatial data processing and
 
 > Code comments and logs are written in Polish.
 
-> Komentarze w kodzie oraz nazwy zmiennych i komunikaty logowania są w języku polskim.
-
 ## About
 
 This project automates the loading of various spatial datasets into a PostgreSQL/PostGIS database and runs a set of spatial analyses using PostGIS functions. The data covers urban infrastructure elements such as parcels, trees, buildings, roads, footpaths, and car parks — all referenced in the Polish national coordinate system EPSG:2180.
